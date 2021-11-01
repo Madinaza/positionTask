@@ -1,0 +1,88 @@
+.FirstBox{
+    width:1500px;
+    height: 100px;
+    border-style: solid ;
+    border-radius: 20px;
+    border-width: 5px;
+    position: relative;
+    top: 30px;
+}
+
+.yellowBox{
+    width: 70px;
+    height: 70px;
+    background-color:yellow;
+    position: absolute;
+    top: 15px;
+    left: 50px;
+
+}
+.BigYellowBox{
+    width: 750px;
+    height: 70px;
+    background-color: yellow;
+    position: absolute;
+    top: 15px;
+    left: 300px;
+
+}
+.FirstBlue{
+
+    width: 200px;
+    height: 55px;
+    background-color: rgb(57, 138, 245);
+    position: absolute;
+    left: 40px;
+    bottom: 3px;
+}
+.RedBox{
+width: 50px;
+height: 40px;
+background-color: red;
+position: absolute;
+right: 0px;
+top: 0px;
+
+
+}
+.SecondBlue{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(57, 138, 245);
+    position: absolute;
+    bottom: 2px;
+    left: 340px;
+
+}
+.LastBlue{
+
+    width: 100px;
+    height: 50px;
+    background-color: rgb(57, 138, 245);
+    position: absolute;
+    right: 20px;
+    bottom: 2px;
+
+}
+
+.LastYellowBox{
+width: 120px;
+height: 70px;
+background-color: yellow;
+position: absolute;
+top: 15px;
+right: 80px;
+
+}
+.GreenBox{
+width: 58px;
+height: 48px;
+border-style: solid;
+border-width: 5px;
+border-color: green;
+
+position: absolute;
+top: 7px;
+left: 30px;
+}
+
